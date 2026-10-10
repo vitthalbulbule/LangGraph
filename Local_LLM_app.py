@@ -7,3 +7,4 @@ llm = ChatOllama(
 
 response = llm.invoke("Explain RAG in 3 simple sentences.")
 print(response.content)
+
